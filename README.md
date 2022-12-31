@@ -1,5 +1,13 @@
 ### Welcome to my Github
 
+Hi there! My name is Mario Campbell R and I am a software engineer with over 11 years of experience in the industry. Throughout my career, I have gained expertise in a variety of programming languages, including JavaScript, TypeScript, Go, Rust, HTML and CSS.
+
+I have a strong background in web development and cloud computing, and have a proven track record of delivering high-quality, reliable software on time and within budget.
+
+In my current role as a Team Lead at Hatchworks, I am responsible for managing a team of developers and ensuring that we are delivering high-quality software to our clients. I have experience in leading agile development teams and am skilled in project management methodologies.
+
+I am always looking for new challenges and opportunities to grow as a software engineer. In my free time, I enjoy practicing martial arts and have a particular passion for jiujitsu and taekwondo. I also enjoy staying up-to-date on industry trends and reading about new technologies.
+
 Visit my personal social pages:
 
 [Instagram](https://www.instagram.com/mariocampbellr)
