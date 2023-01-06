@@ -12,7 +12,7 @@ Visit my personal social pages:
 
 [Instagram](https://www.instagram.com/mariocampbellr)
 
-[LinkedIn](https://www.linkedin.com/in/mcampbellr)
+[LinkedIn](https://www.linkedin.com/in/mariocampbellr)
 
 [Facebook](https://facebook.com/mcampbellr)
 
