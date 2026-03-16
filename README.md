@@ -11,6 +11,3 @@ Visit my personal social pages:
 [Facebook](https://facebook.com/mcampbellr)
 
 [Website](https://mariocampbellr.com)
-
-
-2189
